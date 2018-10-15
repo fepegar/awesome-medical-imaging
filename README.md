@@ -67,6 +67,9 @@ It heavily relies on ITK.
 > MRtrix3 provides a set of tools to perform various types of diffusion MRI analyses, from various forms of tractography through to next-generation group-level analyses.
 
 
+## Registration
+### [NiftyReg](http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg)
+NiftyReg is an open-source software for efficient medical image registration.
 
 ## Deep learning
 
