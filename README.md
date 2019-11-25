@@ -3,14 +3,22 @@
 
 This is an [awesome](https://github.com/sindresorhus/awesome) list of software that I use to do research in medical imaging.
 
+
 ## Kitware stuff
-![kitware](https://www.kitware.com/main/wp-content/uploads/2017/03/Kitware_Logo.png)
+<img src="https://www.kitware.com/main/wp-content/uploads/2017/03/Kitware_Logo.png" alt="kitware" width="200"/>
+
+
 ### [ITK - Insight Segmentation and Registration Toolkit](https://itk.org/)
-![itk](https://discourse.itk.org/uploads/default/original/1X/83aa25abdcbd323ce491ff99db5dfe2e59d7fd4d.png)
+
+<img src="https://discourse.itk.org/uploads/default/original/1X/83aa25abdcbd323ce491ff99db5dfe2e59d7fd4d.png" alt="itk" width="200"/>
+
 > ITK is an open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis.  Developed through extreme programming methodologies, ITK employs leading-edge algorithms for registering and segmenting multidimensional data.
 
+
 #### [SimpleITK](http://www.simpleitk.org/)
-![simpleitk](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/SimpleITKToolkitLogo.jpg/1200px-SimpleITKToolkitLogo.jpg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/SimpleITKToolkitLogo.jpg/1200px-SimpleITKToolkitLogo.jpg" alt="simpleitk" width="200"/>
+
 > SimpleITK is a simplified layer built on top of ITK, intended to facilitate its use in rapid prototyping, education, interpreted languages.
 
 #### [`itk` - ITKPythonPackage](https://itkpythonpackage.readthedocs.io/)
@@ -18,31 +26,43 @@ PyPI package for a pythonic interface to ITK.
 
 
 ### [VTK - Visualization Toolkit](https://www.vtk.org/)
-![vtk](https://c1.staticflickr.com/3/2244/2286824312_3d69ae384a_z.jpg?zz=1)
+
+<img src="https://c1.staticflickr.com/3/2244/2286824312_3d69ae384a_z.jpg?zz=1" alt="vtk" width="200"/>
+
 > The Visualization Toolkit (VTK) is open source software for manipulating and displaying scientific data. It comes with state-of-the-art tools for 3D rendering, a suite of widgets for 3D interaction, and extensive 2D plotting capability.
 
 [Link to VTK examples](https://lorensen.github.io/VTKExamples/site/)
 
+
 ### [3D Slicer](https://www.slicer.org/)
-![slicer](https://www.slicer.org/w/images/a/ad/3DSlicerLogo-V-Color-2300x2502.png)
+
+<img src="https://www.slicer.org/w/img_auth.php/1/1f/3DSlicerLogo-H-Color-1273x737.png" alt="slicer" width="200"/>
+
 > 3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization. Built over two decades through support from the National Institutes of Health and a worldwide developer community, Slicer brings free, powerful cross-platform processing tools to physicians, researchers, and the general public.
 
 [Link to 3D Slicer tutorials](https://www.slicer.org/wiki/Documentation/4.8/Training)
 
 
 ### [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
-![itksnap](http://www.itksnap.org/Artwork/snaplogo3.png)
+
+<img src="http://www.itksnap.org/Artwork/snaplogo3.png" alt="itksnap" width="200"/>
+
 > ITK-SNAP is a software application used to segment structures in 3D medical images. It provides semi-automatic segmentation using active contour methods, as well as manual delineation and image navigation.
 
 
 ## [NIPY](http://nipy.org/)
-![nipy](http://nipy.org/img/nipy.svg)
-NIPY is
-> a community of practice devoted to the use of the Python programming language in the analysis of neuroimaging data.
+
+<img src="http://nipy.org/img/nipy.svg" alt="nipy" width="200"/>
+
+> NIPY is a community of practice devoted to the use of the Python programming language in the analysis of neuroimaging data.
+
 
 ### Analysis Pipeline Management
+
 #### [Nipype](https://nipype.readthedocs.io/)
-![nipype](http://miykael.github.io/nipype-beginner-s-guide/_static/nipype-beginners-guide-html_logo.png)
+
+<img src="http://miykael.github.io/nipype-beginner-s-guide/_static/nipype-beginners-guide-html_logo.png" alt="nipype" width="200"/>
+
 > Nipype, an open-source, community-developed initiative under the umbrella of NiPy, is a Python project that provides a uniform interface to existing neuroimaging software and facilitates interaction between these packages within a single workflow.
 
 
@@ -65,22 +85,32 @@ It heavily relies on ITK.
 
 >The SPM software package has been designed for the analysis of brain imaging data sequences. The sequences can be a series of images from different cohorts, or time-series from the same subject. The current release is designed for the analysis of fMRI, PET, SPECT, EEG and MEG.
 
+
 ### [FSL - Functional Magnetic Resonance Imaging of the Brain Software Library](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
-![fsl](https://fsl.fmrib.ox.ac.uk/fsl/wiki_static/fsl/img/fsl-logo-x2.png)
+
+<img src="https://fsl.fmrib.ox.ac.uk/fsl/wiki_static/fsl/img/fsl-logo-x2.png" alt="fsl" width="200"/>
+
 > FSL is a comprehensive library of analysis tools for FMRI, MRI and DTI brain imaging data.
 
+
 ### [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/)
-![freesurfer](https://surfer.nmr.mgh.harvard.edu/fscortex.png)
+
+<img src="https://surfer.nmr.mgh.harvard.edu/fscortex.png" alt="freesurfer" width="200"/>
+
 > An open source software suite for processing and analyzing (human) brain MRI images.
 
+
 ### [MRtrix3](http://www.mrtrix.org/)
+
 > MRtrix3 provides a set of tools to perform various types of diffusion MRI analyses, from various forms of tractography through to next-generation group-level analyses.
 
 
 ## Registration
+
 ### [NiftyReg](http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg)
 ![niftyreg](https://cmiclab.cs.ucl.ac.uk/uploads/-/system/project/avatar/252/nifty_reg_logo.png)
 NiftyReg is an open-source software for efficient medical image registration.
+
 
 ## Deep learning
 
