@@ -17,7 +17,7 @@ This is an [awesome](https://github.com/sindresorhus/awesome) list of software t
 
 #### [SimpleITK](http://www.simpleitk.org/)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/SimpleITKToolkitLogo.jpg/1200px-SimpleITKToolkitLogo.jpg" alt="simpleitk" width="200"/>
+<img src="https://discourse.itk.org/uploads/default/original/2X/6/6104191cf31c3c43abc6f381c58f46e34e511511.png" alt="simpleitk" width="200"/>
 
 > SimpleITK is a simplified layer built on top of ITK, intended to facilitate its use in rapid prototyping, education, interpreted languages.
 
@@ -108,28 +108,29 @@ It heavily relies on ITK.
 ## Registration
 
 ### [NiftyReg](http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg)
-![niftyreg](https://cmiclab.cs.ucl.ac.uk/uploads/-/system/project/avatar/252/nifty_reg_logo.png)
+<img src="https://cmiclab.cs.ucl.ac.uk/uploads/-/system/project/avatar/252/nifty_reg_logo.png" alt="NiftyReg" width="200"/>
 NiftyReg is an open-source software for efficient medical image registration.
 
+### [ANTs](http://stnava.github.io/ANTs/)
 
 ## Deep learning
 
 ### [NiftyNet](http://www.niftynet.io/)
-![niftynet](http://www.niftynet.io/img/niftynet-logo.png)
+<img src="http://www.niftynet.io/img/niftynet-logo.png" alt="NiftyNet" width="200"/>
 > NiftyNet is a TensorFlow-based open-source convolutional neural networks (CNNs) platform for research in medical image analysis and image-guided therapy. NiftyNet’s modular structure is designed for sharing networks and pre-trained models.
 
 ## File formats
 
 ### [NIfTI - Neuroimaging Informatics Technology Initiative](https://nifti.nimh.nih.gov/)
-![nifti](https://nifti.nimh.nih.gov/iconBlue.jpg)
+<img src="https://nifti.nimh.nih.gov/iconBlue.jpg" alt="NIfTI" width="200"/>
 > NIfTI-1 is a new Analyze-style data format, proposed by the NIfTI DFWG as a short-term measure to facilitate inter-operation of functional MRI data analysis software packages.
 
 ### [DICOM - Digital Imaging and Communications in Medicine](https://www.dicomstandard.org/)
-![dicom](http://blog.nema.org/wp-content/uploads/2016/11/DICOM-logo-e1479849233486.jpg)
+<img src="http://blog.nema.org/wp-content/uploads/2016/11/DICOM-logo-e1479849233486.jpg" alt="DICOM" width="200"/>
 > DICOM® (Digital Imaging and Communications in Medicine) is the international standard to transmit, store, retrieve, print, process, and display medical imaging information.
 
 ### [NRRD - Nearly Raw Raster Data](http://teem.sourceforge.net/nrrd/)
-![nrrd](http://teem.sourceforge.net/img/nrrd256.jpg)
+<img src="http://teem.sourceforge.net/img/nrrd256.jpg" alt="NRRD" width="200"/>
 > Nrrd is a library and file format designed to support scientific visualization and image processing involving N-dimensional raster data.
 
 
