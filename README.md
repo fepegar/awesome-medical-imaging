@@ -36,7 +36,7 @@ PyPI package for a pythonic interface to ITK.
 
 ### [3D Slicer](https://www.slicer.org/)
 
-<img src="https://www.slicer.org/wiki/images/d/db/3DSlicerLogo-H-Color-424x236.png" alt="slicer" width="100"/>
+<img src="https://raw.githubusercontent.com/Slicer/Slicer/master/Resources/3DSlicer-DesktopIcon.png" alt="slicer" width="100"/>
 
 > 3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization. Built over two decades through support from the National Institutes of Health and a worldwide developer community, Slicer brings free, powerful cross-platform processing tools to physicians, researchers, and the general public.
 
@@ -45,14 +45,14 @@ PyPI package for a pythonic interface to ITK.
 
 ### [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
 
-<img src="http://www.itksnap.org/Artwork/snaplogo3.png" alt="itksnap" width="100"/>
+<img src="https://raw.githubusercontent.com/pyushkevich/itksnap/master/GUI/Qt/Resources/logo_square_shadow.png" alt="itksnap" width="100"/>
 
 > ITK-SNAP is a software application used to segment structures in 3D medical images. It provides semi-automatic segmentation using active contour methods, as well as manual delineation and image navigation.
 
 
 ## [NIPY](http://nipy.org/)
 
-<img src="http://nipy.org/img/nipy.svg" alt="nipy" width="100"/>
+<img src="https://raw.githubusercontent.com/nipy/nipy.github.io/master/img/nipy.svg" alt="nipy" width="100"/>
 
 > NIPY is a community of practice devoted to the use of the Python programming language in the analysis of neuroimaging data.
 
@@ -61,7 +61,7 @@ PyPI package for a pythonic interface to ITK.
 
 #### [Nipype](https://nipype.readthedocs.io/)
 
-<img src="http://miykael.github.io/nipype-beginner-s-guide/_static/nipype-beginners-guide-html_logo.png" alt="nipype" width="100"/>
+<img src="https://raw.githubusercontent.com/nipy/nipype/master/doc/_static/nipype-banner-bg.png" alt="nipype" width="100"/>
 
 > Nipype, an open-source, community-developed initiative under the umbrella of NiPy, is a Python project that provides a uniform interface to existing neuroimaging software and facilitates interaction between these packages within a single workflow.
 
@@ -88,7 +88,7 @@ It heavily relies on ITK.
 
 ### [FSL - Functional Magnetic Resonance Imaging of the Brain Software Library](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
 
-<img src="https://fsl.fmrib.ox.ac.uk/fsl/wiki_static/fsl/img/fsl-logo-x2.png" alt="fsl" width="100"/>
+<img src="https://fsl.fmrib.ox.ac.uk/fsl/img/fsl-logo.svg" alt="fsl" width="100"/>
 
 > FSL is a comprehensive library of analysis tools for FMRI, MRI and DTI brain imaging data.
 
@@ -121,41 +121,39 @@ NiftyReg is an open-source software for efficient medical image registration.
 ## File formats
 
 ### [NIfTI - Neuroimaging Informatics Technology Initiative](https://nifti.nimh.nih.gov/)
-<img src="https://nifti.nimh.nih.gov/iconBlue.jpg" alt="NIfTI" width="100"/>
 > NIfTI-1 is a new Analyze-style data format, proposed by the NIfTI DFWG as a short-term measure to facilitate inter-operation of functional MRI data analysis software packages.
 
 ### [DICOM - Digital Imaging and Communications in Medicine](https://www.dicomstandard.org/)
 > DICOM® (Digital Imaging and Communications in Medicine) is the international standard to transmit, store, retrieve, print, process, and display medical imaging information.
 
 ### [NRRD - Nearly Raw Raster Data](http://teem.sourceforge.net/nrrd/)
-<img src="http://teem.sourceforge.net/img/nrrd256.jpg" alt="NRRD" width="100"/>
 > Nrrd is a library and file format designed to support scientific visualization and image processing involving N-dimensional raster data.
 
 
 ## Others
 
 ### [SciPy ecosystem](https://www.scipy.org/)
-<img src="https://cdn-images-1.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" alt="scipy" width="100"/>
+<img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="scipy" width="100"/>
 > SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering. In particular, these are some of the core packages:
 
 #### [NumPy](http://www.numpy.org/)
-<img src="https://www.scipy.org/_static/images/numpylogo_med.png" alt="numpy" width="100"/>
+<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="numpy" width="100"/>
 > NumPy is the fundamental package for scientific computing with Python.
 
 #### [IPython](http://ipython.org/)
-<img src="https://www.scipy.org/_static/images/ipython.png" alt="ipython" width="100"/>
+<img src="https://raw.githubusercontent.com/ipython/ipython/main/docs/source/_static/logo.png" alt="ipython" width="100"/>
 > Enhanced Interactive Console
 
 #### [SciPy library](https://www.scipy.org/scipylib/index.html)
-<img src="https://www.scipy.org/_static/images/scipy_med.png" alt="scipylib" width="100"/>
+<img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="scipylib" width="100"/>
 > The SciPy library is one of the core packages that make up the SciPy stack. It provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization.
 
 #### [Matplotlib](https://matplotlib.org/)
-<img src="https://www.scipy.org/_static/images/matplotlib_med.png" alt="mpl" width="100"/>
+<img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" alt="mpl" width="100"/>
 > Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
 #### [Pandas](http://pandas.pydata.org/)
-<img src="https://www.scipy.org/_static/images/pandas_badge2.jpg" alt="pandas" width="100"/>
+<img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg" alt="pandas" width="100"/>
 > Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
 ### Other plotting libraries
@@ -164,7 +162,7 @@ NiftyReg is an open-source software for efficient medical image registration.
 > Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 #### [Altair](https://altair-viz.github.io/)
-<img src="https://altair-viz.github.io/_static/altair-logo-light.png" alt="altair" width="100"/>
+<img src="https://raw.githubusercontent.com/vega/altair/master/design/altair-logo.svg" alt="altair" width="100"/>
 > Altair is a declarative statistical visualization library for Python, based on Vega and Vega-Lite.
 
 
