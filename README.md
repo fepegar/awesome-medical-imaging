@@ -5,19 +5,19 @@ This is an [awesome](https://github.com/sindresorhus/awesome) list of software t
 
 
 ## Kitware stuff
-<img src="https://www.kitware.com/main/wp-content/uploads/2017/03/Kitware_Logo.png" alt="kitware" width="200"/>
+<img src="https://raw.githubusercontent.com/Kitware/APBPoster/master/docs/Kitware_Full_Logo.svg" alt="kitware" width="100"/>
 
 
 ### [ITK - Insight Segmentation and Registration Toolkit](https://itk.org/)
 
-<img src="https://discourse.itk.org/uploads/default/original/1X/83aa25abdcbd323ce491ff99db5dfe2e59d7fd4d.png" alt="itk" width="200"/>
+<img src="https://discourse.itk.org/uploads/default/original/1X/83aa25abdcbd323ce491ff99db5dfe2e59d7fd4d.png" alt="itk" width="100"/>
 
 > ITK is an open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis.  Developed through extreme programming methodologies, ITK employs leading-edge algorithms for registering and segmenting multidimensional data.
 
 
 #### [SimpleITK](http://www.simpleitk.org/)
 
-<img src="https://discourse.itk.org/uploads/default/original/2X/6/6104191cf31c3c43abc6f381c58f46e34e511511.png" alt="simpleitk" width="200"/>
+<img src="https://discourse.itk.org/uploads/default/original/2X/6/6104191cf31c3c43abc6f381c58f46e34e511511.png" alt="simpleitk" width="100"/>
 
 > SimpleITK is a simplified layer built on top of ITK, intended to facilitate its use in rapid prototyping, education, interpreted languages.
 
@@ -27,7 +27,7 @@ PyPI package for a pythonic interface to ITK.
 
 ### [VTK - Visualization Toolkit](https://www.vtk.org/)
 
-<img src="https://c1.staticflickr.com/3/2244/2286824312_3d69ae384a_z.jpg?zz=1" alt="vtk" width="200"/>
+<img src="https://c1.staticflickr.com/3/2244/2286824312_3d69ae384a_z.jpg?zz=1" alt="vtk" width="100"/>
 
 > The Visualization Toolkit (VTK) is open source software for manipulating and displaying scientific data. It comes with state-of-the-art tools for 3D rendering, a suite of widgets for 3D interaction, and extensive 2D plotting capability.
 
@@ -36,7 +36,7 @@ PyPI package for a pythonic interface to ITK.
 
 ### [3D Slicer](https://www.slicer.org/)
 
-<img src="https://www.slicer.org/w/img_auth.php/1/1f/3DSlicerLogo-H-Color-1273x737.png" alt="slicer" width="200"/>
+<img src="https://www.slicer.org/wiki/images/d/db/3DSlicerLogo-H-Color-424x236.png" alt="slicer" width="100"/>
 
 > 3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization. Built over two decades through support from the National Institutes of Health and a worldwide developer community, Slicer brings free, powerful cross-platform processing tools to physicians, researchers, and the general public.
 
@@ -45,14 +45,14 @@ PyPI package for a pythonic interface to ITK.
 
 ### [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
 
-<img src="http://www.itksnap.org/Artwork/snaplogo3.png" alt="itksnap" width="200"/>
+<img src="http://www.itksnap.org/Artwork/snaplogo3.png" alt="itksnap" width="100"/>
 
 > ITK-SNAP is a software application used to segment structures in 3D medical images. It provides semi-automatic segmentation using active contour methods, as well as manual delineation and image navigation.
 
 
 ## [NIPY](http://nipy.org/)
 
-<img src="http://nipy.org/img/nipy.svg" alt="nipy" width="200"/>
+<img src="http://nipy.org/img/nipy.svg" alt="nipy" width="100"/>
 
 > NIPY is a community of practice devoted to the use of the Python programming language in the analysis of neuroimaging data.
 
@@ -61,7 +61,7 @@ PyPI package for a pythonic interface to ITK.
 
 #### [Nipype](https://nipype.readthedocs.io/)
 
-<img src="http://miykael.github.io/nipype-beginner-s-guide/_static/nipype-beginners-guide-html_logo.png" alt="nipype" width="200"/>
+<img src="http://miykael.github.io/nipype-beginner-s-guide/_static/nipype-beginners-guide-html_logo.png" alt="nipype" width="100"/>
 
 > Nipype, an open-source, community-developed initiative under the umbrella of NiPy, is a Python project that provides a uniform interface to existing neuroimaging software and facilitates interaction between these packages within a single workflow.
 
@@ -88,14 +88,14 @@ It heavily relies on ITK.
 
 ### [FSL - Functional Magnetic Resonance Imaging of the Brain Software Library](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
 
-<img src="https://fsl.fmrib.ox.ac.uk/fsl/wiki_static/fsl/img/fsl-logo-x2.png" alt="fsl" width="200"/>
+<img src="https://fsl.fmrib.ox.ac.uk/fsl/wiki_static/fsl/img/fsl-logo-x2.png" alt="fsl" width="100"/>
 
 > FSL is a comprehensive library of analysis tools for FMRI, MRI and DTI brain imaging data.
 
 
 ### [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/)
 
-<img src="https://surfer.nmr.mgh.harvard.edu/fscortex.png" alt="freesurfer" width="200"/>
+<img src="https://surfer.nmr.mgh.harvard.edu/fscortex.png" alt="freesurfer" width="100"/>
 
 > An open source software suite for processing and analyzing (human) brain MRI images.
 
@@ -108,7 +108,6 @@ It heavily relies on ITK.
 ## Registration
 
 ### [NiftyReg](http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg)
-<img src="https://cmiclab.cs.ucl.ac.uk/uploads/-/system/project/avatar/252/nifty_reg_logo.png" alt="NiftyReg" width="200"/>
 NiftyReg is an open-source software for efficient medical image registration.
 
 ### [ANTs](http://stnava.github.io/ANTs/)
@@ -116,48 +115,47 @@ NiftyReg is an open-source software for efficient medical image registration.
 ## Deep learning
 
 ### [NiftyNet](http://www.niftynet.io/)
-<img src="http://www.niftynet.io/img/niftynet-logo.png" alt="NiftyNet" width="200"/>
+<img src="https://raw.githubusercontent.com/NifTK/NiftyNet/dev/niftynet-logo.png" alt="NiftyNet" width="100"/>
 > NiftyNet is a TensorFlow-based open-source convolutional neural networks (CNNs) platform for research in medical image analysis and image-guided therapy. NiftyNet’s modular structure is designed for sharing networks and pre-trained models.
 
 ## File formats
 
 ### [NIfTI - Neuroimaging Informatics Technology Initiative](https://nifti.nimh.nih.gov/)
-<img src="https://nifti.nimh.nih.gov/iconBlue.jpg" alt="NIfTI" width="200"/>
+<img src="https://nifti.nimh.nih.gov/iconBlue.jpg" alt="NIfTI" width="100"/>
 > NIfTI-1 is a new Analyze-style data format, proposed by the NIfTI DFWG as a short-term measure to facilitate inter-operation of functional MRI data analysis software packages.
 
 ### [DICOM - Digital Imaging and Communications in Medicine](https://www.dicomstandard.org/)
-<img src="http://blog.nema.org/wp-content/uploads/2016/11/DICOM-logo-e1479849233486.jpg" alt="DICOM" width="200"/>
 > DICOM® (Digital Imaging and Communications in Medicine) is the international standard to transmit, store, retrieve, print, process, and display medical imaging information.
 
 ### [NRRD - Nearly Raw Raster Data](http://teem.sourceforge.net/nrrd/)
-<img src="http://teem.sourceforge.net/img/nrrd256.jpg" alt="NRRD" width="200"/>
+<img src="http://teem.sourceforge.net/img/nrrd256.jpg" alt="NRRD" width="100"/>
 > Nrrd is a library and file format designed to support scientific visualization and image processing involving N-dimensional raster data.
 
 
 ## Others
 
 ### [SciPy ecosystem](https://www.scipy.org/)
-![scipy](https://cdn-images-1.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png)
+<img src="https://cdn-images-1.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" alt="scipy" width="100"/>
 > SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering. In particular, these are some of the core packages:
 
 #### [NumPy](http://www.numpy.org/)
-![numpy](https://www.scipy.org/_static/images/numpylogo_med.png)
+<img src="https://www.scipy.org/_static/images/numpylogo_med.png" alt="numpy" width="100"/>
 > NumPy is the fundamental package for scientific computing with Python.
 
 #### [IPython](http://ipython.org/)
-![ipython](https://www.scipy.org/_static/images/ipython.png)
+<img src="https://www.scipy.org/_static/images/ipython.png" alt="ipython" width="100"/>
 > Enhanced Interactive Console
 
 #### [SciPy library](https://www.scipy.org/scipylib/index.html)
-![scipylib](https://www.scipy.org/_static/images/scipy_med.png)
+<img src="https://www.scipy.org/_static/images/scipy_med.png" alt="scipylib" width="100"/>
 > The SciPy library is one of the core packages that make up the SciPy stack. It provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization.
 
 #### [Matplotlib](https://matplotlib.org/)
-![mpl](https://www.scipy.org/_static/images/matplotlib_med.png)
+<img src="https://www.scipy.org/_static/images/matplotlib_med.png" alt="mpl" width="100"/>
 > Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
 #### [Pandas](http://pandas.pydata.org/)
-![pandas](https://www.scipy.org/_static/images/pandas_badge2.jpg)
+<img src="https://www.scipy.org/_static/images/pandas_badge2.jpg" alt="pandas" width="100"/>
 > Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
 ### Other plotting libraries
@@ -166,37 +164,37 @@ NiftyReg is an open-source software for efficient medical image registration.
 > Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 #### [Altair](https://altair-viz.github.io/)
-![altair](https://altair-viz.github.io/_static/altair-logo-light.png)
+<img src="https://altair-viz.github.io/_static/altair-logo-light.png" alt="altair" width="100"/>
 > Altair is a declarative statistical visualization library for Python, based on Vega and Vega-Lite.
 
 
 ### Machine learning
 #### [TensorFlow](https://www.tensorflow.org/)
-![tf](https://pbs.twimg.com/profile_images/773317101012586496/q8sc1KuZ_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/773317101012586496/q8sc1KuZ_400x400.jpg" alt="tf" width="100"/>
 > TensorFlow is an open-source machine learning library for research and production.
 
 #### [PyTorch](https://pytorch.org/)
-![pytorch](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch" width="100"/>
 > An open source deep learning platform that provides a seamless path from research prototyping to production deployment.
 
 #### [Keras](https://keras.io/)
-![keras](https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" alt="keras" width="100"/>
 > Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation.
 
 #### [Scikit-learn](http://scikit-learn.org/)
-![sklearn](http://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png)
+<img src="http://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="sklearn" width="100"/>
 > Scikit-learn is a free software machine learning library for the Python programming language.
 
 
 ### Computer vision / image processing
 
 #### [OpenCV - Open Source Computer Vision Library](https://opencv.org/)
-![opencv](https://qph.fs.quoracdn.net/main-qimg-748316a749bdb46f5cdbe02e976e5500)
+<img src="https://qph.fs.quoracdn.net/main-qimg-748316a749bdb46f5cdbe02e976e5500" alt="opencv" width="100"/>
 > OpenCV (Open Source Computer Vision Library) is released under a BSD license and hence it’s free for both academic and commercial use. It has C++, Python and Java interfaces and supports Windows, Linux, Mac OS, iOS and Android. OpenCV was designed for computational efficiency and with a strong focus on real-time applications.
 
 #### [Pillow](https://pillow.readthedocs.io/)
 > Pillow is the friendly PIL fork by Alex Clark and Contributors. PIL is the Python Imaging Library by Fredrik Lundh and Contributors.
 
 #### [Scikit-image](https://scikit-image.org/)
-![skimage](https://avatars3.githubusercontent.com/u/897180?s=400&v=4)
+<img src="https://avatars3.githubusercontent.com/u/897180?s=400&v=4" alt="skimage" width="100"/>
 > Scikit-image is a collection of algorithms for image processing.
