@@ -118,6 +118,9 @@ NiftyReg is an open-source software for efficient medical image registration.
 <img src="https://raw.githubusercontent.com/NifTK/NiftyNet/dev/niftynet-logo.png" alt="NiftyNet" width="100"/>
 > NiftyNet is a TensorFlow-based open-source convolutional neural networks (CNNs) platform for research in medical image analysis and image-guided therapy. NiftyNet’s modular structure is designed for sharing networks and pre-trained models.
 
+### [MedCheck](https://github.com/Liohtml/MedCheck)
+> AI-powered medical imaging analysis toolkit. Analyze MRI scans with local ML models and Vision-LLMs (Claude, GPT, Gemini). Generates PDF/HTML reports with annotated images.
+
 ## File formats
 
 ### [NIfTI - Neuroimaging Informatics Technology Initiative](https://nifti.nimh.nih.gov/)
