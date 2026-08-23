@@ -73,6 +73,9 @@ PyPI package for a pythonic interface to ITK.
 #### [`dcm2niix`](https://github.com/rordenlab/dcm2niix)
 `dcm2niix` is a tool designed to convert neuroimaging data from the DICOM format to the NIfTI format.
 
+#### [PureJsImage](https://github.com/a-r-d/PureJsImage)
+Zero-runtime-dependency TypeScript library that reads NIfTI-1/2, NRRD, MetaImage, DICOM Part 10, TIFF, OME-TIFF, and Aperio SVS in Node.js and browsers.
+
 ## Neuroimaging
 
 ### [ANTs - Advanced Normalization Tools](http://stnava.github.io/ANTs/)
